@@ -3,5 +3,3 @@ This is my first React Project for my React Portolio, it's an airbnb-clone made 
 - Use [`npn start`] or [`yarn start`] to start the server
 
 Google API key not included
-
-[`this is code`]
