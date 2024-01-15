@@ -1,6 +1,12 @@
 .flat {
     flex-basis: calc(50% - 20px);
     margin: 10px;
+    cursor: pointer;
+}
+
+.flat:hover {
+    opacity: 0.8;
+    transform: scale(1.05);
 }
 
 .flat-picture {
